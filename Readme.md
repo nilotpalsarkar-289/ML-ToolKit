@@ -13,6 +13,5 @@ The repository is organized into the following directories:
 
 
 ## 📧 Contact
-- Author: Nilotpal Sarkar [IIIT Kalyani]
-- Reach out if you have any suggestions or questions! You can contact me at [nilotpalsarkar289@gmail.com]
+- Reach out if you have any suggestions or questions at [nilotpalsarkar289@gmail.com]
 
