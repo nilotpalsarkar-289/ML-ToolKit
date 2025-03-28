@@ -1,4 +1,4 @@
-# 🤖 ML-Toolkit: Essential Materials for Learning Machine Learning
+# 🤖 ML-Toolkit: Essential Materials for Machine Learning
 
 Welcome to **ML-Toolkit**, a comprehensive collection of notes, resources, and tools to master the field of **Machine Learning**. Whether you’re a beginner looking to understand the basics or an advanced learner diving into deep learning, this repository provides everything you need to learn and excel in machine learning.
 
